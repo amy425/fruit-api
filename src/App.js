@@ -1,10 +1,10 @@
 import React from "react";
-import "./App.css";
 import Fruit from "./Fruit";
 
 function App() {
   return (
-    <div className="App">
+    <div className="home-page">
+      {/* <Nav1 /> */}
       <Fruit />
     </div>
   );
